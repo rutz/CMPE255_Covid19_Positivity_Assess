@@ -7,4 +7,5 @@ To use this model in your own implentation (Very Simple):
 2. Run the main python notebook file.
 
 Original Dataset for Covid-CT-Master Folder from: https://github.com/UCSD-AI4H/COVID-CT
+
 Modified the folder for our implementation purposes.
